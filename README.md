@@ -1,7 +1,7 @@
 # AV-analysis
 Cluster analysis of Puget Sound residents' attitudes about autonomous vehicles
 
-This analysis uses survey data from the Puget Sound Regional Council's 2019 Household Travel Survey (https://psrc.org/household-travel-survey-program) about attitudes towards autonomous vehicles. 
+This analysis uses survey data from the Puget Sound Regional Council's [2019 Household Travel Survey](https://psrc.org/household-travel-survey-program) about attitudes towards autonomous vehicles. 
 
 My data are comprised of ten questions assessing survey respondents' interest in and concern about AVs. These include questions like:
 - How interested are you in riding in an autonomous taxi, with no driver present?
